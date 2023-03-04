@@ -1,0 +1,25 @@
+{
+  "name": "pterodactyl-discord-bot",
+  "version": "1.0.0",
+  "description": "Pterodactyl Discord Bot meant to manage a host via a simple bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Pterodactyl"
+  ],
+  "author": "DIBSTER",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^13.6.0",
+    "mongoose": "^6.3.3"
+  }
+}
