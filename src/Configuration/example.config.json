@@ -1,9 +1,15 @@
 {
+    "Development": {
+        "GuildId": "", // Guild id
+        "ClientId": ""}, // Bot ID
+    "DiscordBot": {
+        "StatusName": ""}, // Status bot
     "Tokens": {
-        "DiscordBotMain": "",
+        "DiscordBot": "", // Token Bot
+        "MongoDB": "", // MongoDB +6
         "PterodactylAPI-Settings": {
-            "PanelLink": "",
-            "Pterodactyl-Key": ""
+            "PanelLink": "", // Panel link 
+            "Pterodactyl-Key": "" // Pterodactyl api
         }
     }
 }
